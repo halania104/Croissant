@@ -15,10 +15,10 @@ a {
 }
 .one,
 .two {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 8px;
   margin-left: 10px;
   margin-right: 10px;
+  border-radius: 10px;
 }
 .one {
   background-color: palevioletred;
