@@ -1,0 +1,9 @@
+body {
+  background: rgb(215, 184, 83);
+}
+.pics {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
